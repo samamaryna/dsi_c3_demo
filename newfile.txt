@@ -1,1 +1,2 @@
+Hello new changes! 
 New changes in a new file
